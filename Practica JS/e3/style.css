@@ -1,0 +1,7 @@
+ /* Estilos CSS para las cards */
+ .pizza-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+  }
